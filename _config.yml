@@ -15,10 +15,11 @@ author: Petar Lachkov (aka kaiz3n)
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Projects:
+    - : "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Volunteer Experience: "https://tcs.io"
+  Experience: "https://deanattali.com"
 
 # --- Logo --- #
 
